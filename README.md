@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="init.gif" width="700"/>
+</p>
 # 💫 About Me:
 🚀 Full Stack Developer passionate about building production-grade MERN applications<br>💻 I specialize in crafting real-time systems, performance optimization, and secure backend architecture<br>🤖 Currently building an AI-powered app with Next.js — exploring the intersection of modern web frameworks and intelligent systems<br>🌱 Leveling up in Next.js, AI integrations<br>🧠 400+ DSA problems solved across different platforms | Strong foundation in OOP & system design thinking<br>
 
