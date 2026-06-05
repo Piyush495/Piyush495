@@ -123,6 +123,10 @@ My focus is clean architecture, measurable performance, and shipping things that
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush495&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Piyush495&theme=tokyonight&hide_border=true&mode=weekly" width="100%" />
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
