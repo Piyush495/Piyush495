@@ -32,7 +32,7 @@ My focus is clean architecture, measurable performance, and shipping things that
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Piyush_Gupta99/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:piyushaggarwal1221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -119,8 +119,8 @@ My focus is clean architecture, measurable performance, and shipping things that
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush495&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush495&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-nu-six-24.vercel.app/api?username=Piyush495&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-nu-six-24.vercel.app/api/top-langs/?username=Piyush495&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -131,7 +131,6 @@ My focus is clean architecture, measurable performance, and shipping things that
 
 ## 🐍 Contribution Graph
 
-<!-- After setting up the snake workflow, this will animate -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Piyush495/Piyush495/output/github-contribution-grid-snake-dark.svg" />
 </p>
