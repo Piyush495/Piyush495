@@ -120,7 +120,7 @@ My focus is clean architecture, measurable performance, and shipping things that
 
 <p align="center">
   <img src="https://github-readme-stats-nu-six-24.vercel.app/api?username=Piyush495&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-nu-six-24.vercel.app/api/top-langs/?username=Piyush495&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats-nu-six-24.vercel.app/api/top-langs/?username=Piyush495&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> -->
 </p>
 
 <p align="center">
